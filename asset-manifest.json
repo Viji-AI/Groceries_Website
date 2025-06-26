@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Groceries_Website/static/css/main.8dd3300a.css",
-    "main.js": "/Groceries_Website/static/js/main.891766d2.js",
+    "main.js": "/Groceries_Website/static/js/main.ec546182.js",
     "static/js/453.125beeb8.chunk.js": "/Groceries_Website/static/js/453.125beeb8.chunk.js",
     "static/media/veggies.jpg": "/Groceries_Website/static/media/veggies.929e22189b313a609daa.jpg",
     "static/media/img20.png": "/Groceries_Website/static/media/img20.dc45279a2f563762f4a5.png",
@@ -34,11 +34,11 @@
     "static/media/slick.woff": "/Groceries_Website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Groceries_Website/index.html",
     "main.8dd3300a.css.map": "/Groceries_Website/static/css/main.8dd3300a.css.map",
-    "main.891766d2.js.map": "/Groceries_Website/static/js/main.891766d2.js.map",
+    "main.ec546182.js.map": "/Groceries_Website/static/js/main.ec546182.js.map",
     "453.125beeb8.chunk.js.map": "/Groceries_Website/static/js/453.125beeb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8dd3300a.css",
-    "static/js/main.891766d2.js"
+    "static/js/main.ec546182.js"
   ]
 }
